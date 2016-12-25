@@ -12,7 +12,9 @@ There is a good color theme [Solarized](http://ethanschoonover.com/solarized) fo
 
 Mac OS has already installed "Z shell" by default. You can use following command to check all system shells.
 >cat /etc/shells 
+
 To make sure your system has installed zsh, then you need to set the default shell as "zsh" for terminal via command
+
 >chsh -s /bin/zsh   
 
 In fact the configuration of "zsh" is a most complex and difficult stuff. Now one geek who published his configuration called "oh my zsh" make us easy to config it. There are we 2 manual steps:
