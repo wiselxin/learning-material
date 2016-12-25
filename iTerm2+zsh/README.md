@@ -20,7 +20,7 @@ To make sure your system has installed zsh, then you need to set the default she
 In fact the configuration of "zsh" is a most complex and difficult stuff. Now one geek who published his configuration called "oh my zsh" make us easy to config it. There are we 2 manual steps:
   
 >git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
-cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+>cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 If you do not have "git" installed, that Mac OS will ask you to install "Xcode" at first.
 
@@ -29,9 +29,10 @@ After you imported the "oh my zsh", you can choose your favorite theme.
 
 Open file ~.zshrc and add following:
 >ZSH_THEME="agnoster"  #Most popular 
-DEFAULT_USER="your Mac user name"  #Can hide path of user 
+>DEFAULT_USER="your Mac user name"  #Can hide path of user 
 
 ###Install new font [Monaco-for-Powerline](https://github.com/supermarin/powerline-fonts/blob/bfcb152306902c09b62be6e4a5eec7763e46d62d/Monaco/Monaco%20for%20Powerline.otf)
 if you not install it, you will see some "?" in your iTerm2 status-line.
 After install do not forget to set iTerm2 font setting to "Monaco for Powerline"
+![](font_setting.png)
 
