@@ -5,7 +5,7 @@
 ##Install iTerm2
 iTerm2 is more powerful Terminal than Mac default one, you can download from [iTerm2](http://www.iterm2.com).
 Installing is very easy on Mac OS. You just need download it, open it and move it into "Application" folder.
-There is a good color theme [Solarized](http://ethanschoonover.com/solarized) for iTerm2 as I showed it above. After download and find corresponding folder for Mac, open it then done!
+There is a good color theme [Solarized](http://ethanschoonover.com/solarized) for iTerm2 as I showed it above. After download and open "solarized/iterm2-colors-solarized/" and double click file then done!
 
 ##Setting for Z Shell(zsh)
 "Z shell" is the best shell because of the name is "Z" which is the latest alphabet. That is just a joke. "Z shell" provides "command auto complete", and support other shell command. Most Linux user can easily use it as before(such as bash).
@@ -34,5 +34,9 @@ Open file ~.zshrc and add following:
 ###Install new font [Monaco-for-Powerline](https://github.com/supermarin/powerline-fonts/blob/bfcb152306902c09b62be6e4a5eec7763e46d62d/Monaco/Monaco%20for%20Powerline.otf)
 if you not install it, you will see some "?" in your iTerm2 status-line.
 After install do not forget to set iTerm2 font setting to "Monaco for Powerline"
-![](font_setting.png)
+![](iTerm2_font.png)
+
+##Reference 
+http://www.tuicool.com/articles/FFN7Vbq
+
 
