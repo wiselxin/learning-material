@@ -25,7 +25,7 @@ Now try to input 'mvim' in your termial, and see if you can open the MacVim.
 ##Configure MacVim
 Create .vimrc file under your user folder (~/). This file is used to store your vim configuration.  
 	 
-	 touch ~/.vimrc
+	touch ~/.vimrc
 
 some setings for examples:
 	  
@@ -52,6 +52,10 @@ some setings for examples:
 	set shiftwidth=4
 	set softtabstop=4
 
+##Manage your plugins
+There are a lot of plugins make your vim more powerful, and here are some popular plugins;
+
+[Vundle](https://github.com/VundleVim/Vundle.vim) is the tools to manage your plugin
 
 ##Reference
 https://github.com/yangyangwithgnu/use_vim_as_ide
