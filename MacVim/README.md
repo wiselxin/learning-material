@@ -14,3 +14,6 @@ But if you would like to open Vim in the terminal, then you shoud copy file 'mvi
 Now try to input 'mvim' in your termial, and see if you can open the MacVim.
 
 ##Configure MacVim
+
+##Reference
+https://github.com/yangyangwithgnu/use_vim_as_ide
