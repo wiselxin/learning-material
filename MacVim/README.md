@@ -51,11 +51,15 @@ some setings for examples:
 	set tabstop=4			" convert tab to 4 space
 	set shiftwidth=4
 	set softtabstop=4
-
+	
+	
 ##Manage your plugins
 There are a lot of plugins make your vim more powerful, and here are some popular plugins;
 
-[Vundle](https://github.com/VundleVim/Vundle.vim) is the tools to manage your plugin
+[Vundle](https://github.com/VundleVim/Vundle.vim) is the tools to manage your plugin.
+
+[Vim-Ariline](https://github.com/vim-airline/vim-airline) 
+[NerdTree](https://github.com/scrooloose/nerdtree)
 
 ##Reference
 https://github.com/yangyangwithgnu/use_vim_as_ide
