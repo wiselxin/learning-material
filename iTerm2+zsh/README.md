@@ -31,9 +31,9 @@ Open file ~.zshrc and add following:
 >ZSH_THEME="agnoster"  #Most popular  
 DEFAULT_USER="your Mac user name"  #Can hide path of user
 
-###Install new font [Monaco-for-Powerline](https://github.com/supermarin/powerline-fonts/blob/bfcb152306902c09b62be6e4a5eec7763e46d62d/Monaco/Monaco%20for%20Powerline.otf)
-if you not install it, you will see some "?" in your iTerm2 status-line.
-After install do not forget to set iTerm2 font setting to "Monaco for Powerline"
+###Integrating with [powerline-fonts](https://github.com/powerline/fonts)
+if you not install the powerline-fonts, you will see some "?" in your iTerm2 status-line.
+Choose one of fonts to install and set iTerm2 font with new installed. 
 ![](iTerm2_font.png)
 
 ##Reference 
