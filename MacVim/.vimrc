@@ -30,10 +30,6 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
-
-
-
-
 " All of your Plugins must be added before the following line
 call vundle#end()     
 
@@ -44,7 +40,7 @@ colorscheme solarized
 let g:airline_theme='solarized'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-set guifont=Droid\Sans\Mono\Dotted\for\Powe:h20
+set guifont=CousineForPowerline:h12
 
 "NerdTree settings
 autocmd vimenter * NERDTree
