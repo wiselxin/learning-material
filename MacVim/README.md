@@ -27,7 +27,7 @@ Create .vimrc file under your user folder (~/). This file is used to store your 
 	 
 	touch ~/.vimrc
 
-some setings for examples: 
+some settings for examples: 
 	
 	set incsearch     		" start search 
 	set ignorecase    		" igonre up/low case 
@@ -47,7 +47,7 @@ some setings for examples:
 	set shiftwidth=4
 	set softtabstop=4
 
-I attached [my configuration](.vimrc), you can download it for you initial setup
+I attached [my configuration](.vimrc), you can download it for you initial setup.
 	
 	
 ##Manage your plugins
@@ -55,8 +55,9 @@ There are a lot of plugins make your vim more powerful, and here are some popula
 
 [Vundle](https://github.com/VundleVim/Vundle.vim) is the tools to manage your plugin.
 
-[Vim-Ariline](https://github.com/vim-airline/vim-airline) 
-[NerdTree](https://github.com/scrooloose/nerdtree)
+[Vim-Ariline](https://github.com/vim-airline/vim-airline) is lean & mean status/tabline for vim that's light as air.
+
+[NerdTree](https://github.com/scrooloose/nerdtree) explores your filesystem and to open files and directories.
 
 ##Reference
 https://github.com/yangyangwithgnu/use_vim_as_ide
