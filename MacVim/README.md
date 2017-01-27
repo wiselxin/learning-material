@@ -27,30 +27,27 @@ Create .vimrc file under your user folder (~/). This file is used to store your 
 	 
 	touch ~/.vimrc
 
-some setings for examples:
-	  
+some setings for examples: 
+	
 	set incsearch     		" start search 
 	set ignorecase    		" igonre up/low case 
 	set nocompatible  		" not compatible 
-	set wildmenu	    	" auto complete vim command
-	
+	set wildmenu			" auto complete vim command
 	set background=dark		" Set color theme
-	colorscheme solarized	
- 	
+	colorscheme solarized	" Set Theme
  	set laststatus=2 		" Display status line
  	set ruler 				" display focus
  	set number				" display row number
- 	
  	set cursorline 			" highlight current line/colomn
 	set cursorcolumn 	 
-	
 	syntax enable			" enable systax check
 	syntax on
-	
 	set expandtab 			" convert tab to space
 	set tabstop=4			" convert tab to 4 space
 	set shiftwidth=4
 	set softtabstop=4
+
+I attached [my configuration](/.vimrc), you can download it for you initial setup
 	
 	
 ##Manage your plugins
