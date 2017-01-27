@@ -47,7 +47,7 @@ some setings for examples:
 	set shiftwidth=4
 	set softtabstop=4
 
-I attached [my configuration](/.vimrc), you can download it for you initial setup
+I attached [my configuration](.vimrc), you can download it for you initial setup
 	
 	
 ##Manage your plugins
