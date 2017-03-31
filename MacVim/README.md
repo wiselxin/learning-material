@@ -1,5 +1,5 @@
-#Make your Vim work as IDE
-##Install MacVim on your Mac
+# Make your Vim work as IDE
+## Install MacVim on your Mac
 Why we do not use the Vim(Carbon)? Beause it isn't updated much any more. This behaves more like Vim on Unix. So that [Vim Org](http://www.vim.org) also recommand you to install MacVim on your Mac. 
 	
 Dowload [MacVim](https://github.com/macvim-dev/macvim), you will find 3 files in attachment(MacVim, mvim, reader.txt). To move 'MacVim' to folder '/Applications' at first, then you finsh the installation.	
@@ -22,7 +22,7 @@ But if you would like to open Vim in the terminal, then you shoud copy file 'mvi
 
 Now try to input 'mvim' in your termial, and see if you can open the MacVim.
 
-##Configure MacVim
+## Configure MacVim
 Create .vimrc file under your user folder (~/). This file is used to store your vim configuration.  
 	 
 	touch ~/.vimrc
@@ -50,7 +50,7 @@ some settings for examples:
 I attached [my configuration](.vimrc), you can download it for you initial setup.
 	
 	
-##Manage your plugins
+## Manage your plugins
 There are a lot of plugins make your vim more powerful, and here are some popular plugins;
 
 [Vundle](https://github.com/VundleVim/Vundle.vim) is the tools to manage your plugin.
@@ -59,7 +59,7 @@ There are a lot of plugins make your vim more powerful, and here are some popula
 
 [NerdTree](https://github.com/scrooloose/nerdtree) explores your filesystem and to open files and directories.
 
-##Reference
+## Reference
 https://github.com/yangyangwithgnu/use_vim_as_ide
 
 https://dougblack.io/words/a-good-vimrc.html
