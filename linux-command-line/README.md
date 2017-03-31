@@ -1,6 +1,6 @@
-#Linux Command Line
+# Linux Command Line
 
-##Basic Command
+## Basic Command
 
 	ls					list folder or file of current path
 		-l				list detail information
@@ -23,7 +23,7 @@
 	grep				search string in file
 	rmdir [dir]			delete empty folder
 	
-##System Command
+## System Command
 	stat				display detail file infomation
 	who					display current login users
 	whoami				display curretn operation user
