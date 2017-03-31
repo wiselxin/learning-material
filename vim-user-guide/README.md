@@ -1,4 +1,4 @@
-#Get start
+# Get start
 After you install vim, I do recommand you to following the guide; 
  
 - **Open vim** --> input command "vim" at the terminal. 
@@ -8,7 +8,7 @@ because vim open the file and it is under normal mode, when press **'i'**, you w
                          
 - **Save and exit** --> After you change the file, you need press **'Esc'** to swith 'insert' mode to 'normal'mode. Then input command **':w < enter >'**(write) for save the changes. input **':q < enter >'**(quite) to exit vim. and you can also input command together such as **':wq < enter >'** means save and exit.   
 
-#Command
+# Command
 
 |Basic   |        |
 |------- |------- |
