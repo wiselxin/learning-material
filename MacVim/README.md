@@ -4,7 +4,8 @@ Why we do not use the Vim(Carbon)? Beause it isn't updated much any more. This b
 	
 Dowload [MacVim](https://github.com/macvim-dev/macvim), you will find 3 files in attachment(MacVim, mvim, reader.txt). To move 'MacVim' to folder '/Applications' at first, then you finsh the installation.	
 
-But if you would like to open Vim in the terminal, then you shoud copy file 'mvim' to folder '/usr/bin/' at very begining. However since OS was updated to 10.11, your are not allowed to copy any file to that folder. Here is the alternative solution: 	
+But if you would like to open Vim in the terminal, then you shoud copy file 'mvim' to folder '/usr/bin/' at very begining. However since OS was updated to 10.11, your are not allowed to copy any file to that folder. Here is the alternative solution:
+
 1.Create a folder 'bin' under your user with the commmand:
 	
 	mkdir ~/bin
