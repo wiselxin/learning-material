@@ -19,3 +19,7 @@ because vim open the file and it is under normal mode, when press **'i'**, you w
 |:q!| exit without save |
 |:bn| go to next file |
 |:bp| go to previous file |
+
+
+
+http://coolshell.cn/articles/5426.html
